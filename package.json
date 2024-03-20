@@ -1,0 +1,17 @@
+{
+  "name": "funwithbackend",
+  "version": "1.0.0",
+  "description": "let's do some fun with backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "fun node"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "shagufta fatima",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
